@@ -1140,8 +1140,8 @@
 }
 
 .cls_dtl_line:hover {
-  /* border:1px solid darkgray; */
-  background-color: red;
+  border:1px solid darkgray; 
+  
 }
 
 .cls_pr_dtl{
